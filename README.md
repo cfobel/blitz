@@ -1,7 +1,7 @@
 blitz
 =====
 
-This package wraps the Blitz++ C++ library[1] in a Python package to make it
+This package wraps the [Blitz++][1] C++ library in a Python package to make it
 easy to install.
 
 # Usage #
@@ -23,4 +23,4 @@ There are also Cython definitions with limited support for Blitz++ `Array` and
 
     python -c "import blitz; print blitz.get_cython_include()"
 
-[1] https://github.com/syntheticpp/blitz
+[1]: https://github.com/syntheticpp/blitz
