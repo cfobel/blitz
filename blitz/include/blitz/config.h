@@ -269,13 +269,13 @@
 #define VERSION "0.10"
 
 /* CXX */
-#define _compiler_name "icc"
+#define _compiler_name "c++"
 
 /* CXXFLAGS */
-#define _compiler_options "-ansi"
+#define _compiler_options ""
 
 /* date */
-#define _config_date "Sat Aug  3 12:23:07 EDT 2013"
+#define _config_date "Wed Aug  7 10:29:38 EDT 2013"
 
 /* uname -a */
 #define _os_name "Linux bobloblaw 3.2.0-34-generic-pae #53-Ubuntu SMP Thu Nov 15 11:11:12 UTC 2012 i686 i686 i386 GNU/Linux"

@@ -4,11 +4,10 @@ import os
 def get_include():
     import blitz
     """
-    Return the directory that contains the Blitz++ reshape \\*.hpp header
-    files.
+    Return the directory that contains the Blitz++ \\*.hpp header files.
 
-    Extension modules that need to compile against Blitz++ reshape should use
-    this function to locate the appropriate include directory.
+    Extension modules that need to compile against Blitz++ should use this
+    function to locate the appropriate include directory.
 
     Notes
     -----

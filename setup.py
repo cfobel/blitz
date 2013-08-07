@@ -14,5 +14,9 @@ setup(name = "blitz",
     packages = ['blitz'],
 
     package_data={'blitz': ['include/*.*', 'include/blitz/*.*',
+                           'include/blitz/generate/*.*',
+                            'include/blitz/array/*.*',
+                            'include/blitz/meta/*.*',
+                            'include/blitz/intel/*.*', 'include/blitz/gnu/*.*',
                             'lib/*.*', 'cython_include/*.*']}
 )
